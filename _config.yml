@@ -43,22 +43,6 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 
-
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
-
-# Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: Boos4721    #github用户名
-  admin: Boos
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
-
 # 统计
 
 # Analytics settings
@@ -89,7 +73,7 @@ service-worker: true
 friends: [
     {
         title: "Telegram",
-        href: "t.me/Boos4721"
+        href: "http://t.me/Boos4721"
     },{
         title: "Apple",
         href: "https://apple.com"
