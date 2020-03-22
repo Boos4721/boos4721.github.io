@@ -71,3 +71,4 @@
 
 先写这点，后面再继续补充。。
 
+[原文](https://akr-developers.com/d/107-android-rom "原文")
